@@ -10,7 +10,13 @@ p {
 	font-family: Calibri;
 	color: DeepSkyBlue;
 }
-h4 {
-  font-size: 32px;
-  font-family: Palatino,Calibri;
+.container {
+	font-family: Copperplate; Calibri;
+	color: rbg(001,100,034);
 }
+.header {
+	font-size:44px;
+	font-family: Calibri;
+	color: AntiqueWhite;
+}
+
