@@ -17,4 +17,7 @@ p {
 	font-family: Calibri;
 	color: AntiqueWhite;
 }
+.image {
+	border: 5px solid black;
+}
 
