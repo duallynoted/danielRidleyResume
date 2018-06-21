@@ -9,8 +9,6 @@ p {
 	font-size: 24px;
 	font-family: Calibri;
 	color: DeepSkyBlue;
-	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
-	background-size: cover;
 }
 h4 {
   font-size: 32px;
