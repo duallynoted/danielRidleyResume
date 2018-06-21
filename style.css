@@ -11,6 +11,8 @@ p {
 .container {
 	font-family: Copperplate; Calibri;
 	color: rbg(001,100,034);
+	border: 2px dotted green;
+	padding:30px;
 }
 .header {
 	font-size:44px;
@@ -19,5 +21,6 @@ p {
 }
 .image-item {
 	border: 5px solid black;
+	padding: 15px;
 }
 
