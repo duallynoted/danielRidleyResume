@@ -25,19 +25,9 @@ p {
 	justify-content: center;
 }
 .contact-btn {
-	float: right;
-}
-.contact-btn a {
-	cursor: pointer;
-	margin-bottom: 30px;
-	padding: 8px 16px;
-	border: 1px solid #204156;
-	position: relative;
-	font-family: Arial;
-	color: DeepSkyBlue;
-}
-.contact-btn a:active {
-	top:2px
+	border: 1px solid black;
+	padding: 5px 18px;
+	font-family: Calibri;
 }
 	
 
