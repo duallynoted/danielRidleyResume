@@ -20,5 +20,8 @@ p {
 .image-item {
 	border: 5px dotted green;
 	padding: 30px;
+	display: flex
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
