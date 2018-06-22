@@ -27,6 +27,13 @@ p {
 .contact-btn {
 	float:right;
 }
-
+.contact-btn a {
+	border: 2px solid black;
+	padding: 5px;
+}
+.contact-btn a:active {
+	position: relative;
+	top: 3px;
+}
 	
 
