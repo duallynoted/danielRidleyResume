@@ -18,11 +18,14 @@ p {
 	color: AntiqueWhite;
 }
 .image-item {
-	border: 5px dotted green;
-	padding: 30px;
+	border: 2px solid green;
+	padding: 20px;
 	display: flex
 	flex-wrap: wrap;
 	justify-content: center;
+}
+.contact-btn {
+	float:right;
 }
 
 	
