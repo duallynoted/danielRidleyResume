@@ -24,22 +24,6 @@ p {
 	flex-wrap: wrap;
 	justify-content: center;
 }
-.contact-btn {
-  float: right;
-}
 
-.contact-btn a {
-  cursor: pointer;
-  margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #204156;
-  position: relative;
-
-}
-
-.contact-btn a:active {
-  top: 2px;
-
-}
 	
 
