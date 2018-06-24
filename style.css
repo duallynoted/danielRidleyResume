@@ -4,36 +4,3 @@ body {
 	text-align: center;
 	width: 100%;
 }
-p {
-	font-size: 24px;
-	font-family: Copperplate;
-}
-.container {
-	font-family: Copperplate; Calibri;
-	color: rbg(001,100,034);
-}
-.header {
-	font-size:44px;
-	font-family: Calibri;
-	color: AntiqueWhite;
-}
-.image-item {
-	border: 2px solid green;
-	padding: 20px;
-	display: flex
-	flex-wrap: wrap;
-	justify-content: center;
-}
-.contact-btn {
-	float:right;
-}
-.contact-btn a {
-	border: 2px solid black;
-	padding: 5px;
-}
-.contact-btn a:active {
-	position: relative;
-	top: 3px;
-}
-	
-
