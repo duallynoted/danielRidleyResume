@@ -6,5 +6,8 @@ body {
 	width: 100%;
 }
 p {
-	color: purple;
+	color: black;
+}
+header {
+	font-family= Lucida; Calibri;
 }
