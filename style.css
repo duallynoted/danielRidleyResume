@@ -8,10 +8,11 @@ body {
 p {
 	color: black;
 }
-ul {
+.bullets {
 	padding: 10;
 	margin: 20;
-	color: blue;
+	font-family: Consolas; Arial;
+	color: #5d6268;
 }
 header {
 	font-family= Lucida; Calibri;
