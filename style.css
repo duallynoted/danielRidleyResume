@@ -11,3 +11,6 @@ p {
 header {
 	font-family= Lucida; Calibri;
 }
+ul {
+	list-style-type:none;
+}
