@@ -12,5 +12,6 @@ header {
 	font-family= Lucida; Calibri;
 }
 ul {
-	list-style-type:none;
+	padding: 0;
+	margin: 0;
 }
