@@ -8,6 +8,10 @@ body {
 p {
 	color: black;
 }
+h4 {
+	text-align: left;
+	margin: 0;
+}
 .bullets {
 	padding: 10;
 	margin: 20;
