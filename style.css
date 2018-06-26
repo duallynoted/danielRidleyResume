@@ -21,3 +21,16 @@ h4 {
 header {
 	font-family= Lucida; Calibri;
 }
+.contact-btn {
+	float:right;
+  font-family: Copperplate;
+}
+.contact-btn a{
+  border: 1px solid black;
+  padding: 5px;
+}
+.contact-btn a:active{
+  position: relative;
+  top: 3px;
+}
+
