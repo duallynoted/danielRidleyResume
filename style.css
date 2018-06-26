@@ -22,7 +22,7 @@ header {
 	font-family= Lucida; Calibri;
 }
 .contact-btn {
-	float:right;
+	float: center;
   font-family: Copperplate;
 }
 .contact-btn a{
