@@ -27,4 +27,8 @@ header {
   position: relative;
   top: 3px;
 }
+footer nav {
+  display: flex;
+  justify-content: flex-end;
+}
 
