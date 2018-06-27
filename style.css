@@ -30,5 +30,6 @@ header {
 footer nav {
   display: flex;
   justify-content: flex-end;
+  padding: 30px;
 }
 
