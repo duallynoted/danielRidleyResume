@@ -2,4 +2,12 @@
 font-family: Palatino;
 display: inline-block;
 }
-
+#traits {
+justification: flex-wrap;
+}
+.navptags p{
+display: inline;
+color: #881417;
+font-family: Palatino;
+padding: 1.5em;
+}
