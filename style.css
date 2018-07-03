@@ -1,11 +1,10 @@
 #topnav {
 font-family: Palatino;
-display: inline-block;
 }
 #traits {
 justification: flex-wrap;
 }
-.navptags p{
+.navptags p {
 display: inline;
 color: #881417;
 font-family: Palatino;
