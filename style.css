@@ -4,9 +4,19 @@ font-family: Palatino;
 #traits {
 justification: flex-wrap;
 }
-.navptags p {
+.navptags p{
 display: inline;
 color: #881417;
 font-family: Palatino;
 padding: 1.5em;
 }
+.container3 {
+font-family: AppleGothic;
+}
+#heading1 {
+font-family: Copperplate;
+}
+.jobul1 ul{
+font-color: red;
+}
+</style>
