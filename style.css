@@ -23,4 +23,6 @@ font-family: AppleGothic;
 }
 #heading1 {
 font-family: Copperplate;
+    background-color: black;
+    color: #82786f
 }
