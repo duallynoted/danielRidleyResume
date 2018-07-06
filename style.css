@@ -1,22 +1,29 @@
+
+<style>
 #topnav {
-font-family: Palatino;
+font-family: AppleGothic;
+    background-color:black;
+    color: #ffffff;
+    padding: 5px;
+    margin; 0px;
 }
 #traits {
 justification: flex-wrap;
+    background-color: antiquewhite;
 }
 .navptags p{
 display: inline;
 color: #881417;
-font-family: Palatino;
+font-family: AppleGothic;
 padding: 1.5em;
 }
+.container {
+    background-color: #cdf4da;
+    }
 .container3 {
 font-family: AppleGothic;
 }
 #heading1 {
 font-family: Copperplate;
-}
-.jobul1 ul{
-font-color: red;
 }
 </style>
