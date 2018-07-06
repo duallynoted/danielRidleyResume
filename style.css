@@ -1,3 +1,11 @@
+.parallax {
+    background-image: url(https://images.discerningassets.com/image/upload/c_fit,h_600,w_600/v1517231894/Minneapolis_Super_Bowl_Colors_3_xe9l2c.jpg);
+    min-height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #topnav {
 font-family: AppleGothic;
     background-color:black;
@@ -15,6 +23,10 @@ color: #881417;
 font-family: AppleGothic;
 padding: 1.5em;
 }
+.col-sm-2 {
+        color: white;
+            text-transform:uppercase;
+        }
 .container {
     background-color: #cdf4da;
     }
@@ -24,5 +36,42 @@ font-family: AppleGothic;
 #heading1 {
 font-family: Copperplate;
     background-color: black;
+    color: #82786f;
+}
+#heading2 {
+font-family: Copperplate;
+    background-color: blue;
     color: #82786f
 }
+#heading3 {
+font-family: Copperplate;
+    background-color: #f9b222;
+    color: #82786f
+}
+     .box1 {
+    background-color: grey;
+    width: 250x;
+    border: 25px solid antiquewhite;
+    padding: 25px;
+    margin: 25px;
+}
+
+    .umcolor1 {
+ color: #ffcc33;
+ }
+ .umcolor2 {
+ color: #7a0019;
+ }
+    .box2 {
+    background-color: antiquewhite;
+    width: 250x;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+.ttucolor1 {
+ color: #4F2984;
+ }
+ .ttucolor2 {
+ color: #FFDD00;
+ }
