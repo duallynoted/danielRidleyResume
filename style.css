@@ -28,7 +28,7 @@ padding: 1.5em;
             text-transform:uppercase;
         }
 .container {
-    background-color: #cdf4da;
+    background: rgba(255, 255, 255, 0.8);
     }
 .container3 {
 font-family: AppleGothic;
