@@ -7,8 +7,8 @@
     background-size: cover;
 }
 #topnav {
-font-family: AppleGothic;
-    background-color:black;
+font-family: Copperplate;
+    background-color:rgb(50,90,125);
     color: #ffffff;
     padding: 5px;
     margin; 0px;
@@ -19,8 +19,8 @@ justification: flex-wrap;
 }
 .navptags p{
 display: inline;
-color: #881417;
-font-family: AppleGothic;
+color: #ffffff;
+font-family: Copperplate;
 padding: 1.5em;
 }
 .col-sm-2 {
@@ -34,17 +34,17 @@ padding: 1.5em;
 font-family: AppleGothic;
 }
 #heading1 {
-font-family: Copperplate;
+font-family: Superclarendon;
     background-color: black;
     color: #82786f;
 }
 #heading2 {
-font-family: Copperplate;
-    background-color: blue;
+font-family: Superclarendon;
+    background-color: #89afed;
     color: #82786f
 }
 #heading3 {
-font-family: Copperplate;
+font-family: Superclarendon;
     background-color: #f9b222;
     color: #82786f
 }
