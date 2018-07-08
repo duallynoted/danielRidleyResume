@@ -6,6 +6,11 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+@media only screen and (max-device-width: 1366px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+}
 #topnav {
 font-family: Copperplate;
     background-color:rgb(50,90,125);
