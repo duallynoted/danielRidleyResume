@@ -6,10 +6,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-@media only screen and (max-device-width: 1366px) {
-    .parallax {
-        background-attachment: inherit;
-    }
+@media screen and (Max-width: 768px) {
+Background-attachment: scroll;
 }
 #topnav {
 font-family: Copperplate;
